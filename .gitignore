@@ -6,9 +6,9 @@
 *.asp
 *.cer
 *.csr
-*.css
-*.htm
-*.html
+.css
+.htm
+.html
 *.js
 *.jsp
 *.php
